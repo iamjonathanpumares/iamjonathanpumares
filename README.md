@@ -46,7 +46,7 @@ You can contact me If I can help you with something, if you have doubts, suggest
 
 Also I will share valuable knowlegde for you on:
 
-* [Facebook](https://www.facebook.com/jepumares)
-* [Twitter](https://twitter.com/3jonapumares)
-* [LinkedIn](https://www.linkedin.com/in/jepumares/)
-* [Dev.to](https://dev.to/iamjonathanpumares)
+* <a href="https://www.facebook.com/jepumares"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+* <a href="https://twitter.com/3jonapumares"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+* <a href="https://www.linkedin.com/in/jepumares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+* <a href="https://dev.to/iamjonathanpumares"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
